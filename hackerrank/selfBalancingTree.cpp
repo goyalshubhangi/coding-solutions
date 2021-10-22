@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/self-balancing-tree/problem
+
 int height(node * root)
 {
   if (root)

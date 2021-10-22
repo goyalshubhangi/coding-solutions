@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/qheap1/problem
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
